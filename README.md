@@ -11,16 +11,16 @@ Please read the comments for a deep understanding of the functioning.
 
 ---> Original Image
 
-![](/home/chaoticsaint/Desktop/Testing Site/images-20210206T174739Z-001/images/zebra.bmp)
+![](./images/zebra.bmp)
 
 ---> Bicubic Interpolation Output (4x Upscaled and Downscaled)
 
-![](/home/chaoticsaint/Desktop/Testing Site/images-20210206T174739Z-001/images/zebra_bicubic_x4.bmp)
+![](./images/zebra_bicubic_x4.bmp)
 
 ---> SRCNN Output (4x Upscaled)
 
-![](/home/chaoticsaint/Desktop/Testing Site/images-20210206T174739Z-001/images/zebra_final_x4.bmp)
+![](./images/zebra_final_x4.bmp)
 
 ---> SRCNN Output (4x Upscaled and Downscaled)
 
-![](/home/chaoticsaint/Desktop/Testing Site/images-20210206T174739Z-001/images/zebra_srcnn_x4.bmp)
+![](./images/zebra_srcnn_x4.bmp)
